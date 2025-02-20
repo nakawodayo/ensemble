@@ -1,11 +1,29 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# アンサンブル
 
-To start the slide show:
+このプロジェクトは、『アンサンブル』という作品のスライドプレゼンテーションです。
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+## 戯曲
 
-Edit the [slides.md](./slides.md) to see the changes.
+slides.md に記載されています。
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+## ローカルでの起動方法
+
+1. 必要な依存関係をインストールします。
+   ```bash
+   npm install
+   ```
+
+2. 開発サーバーを起動します。
+   ```bash
+   npm run dev
+   ```
+
+3. ブラウザで `http://localhost:3030` を開いて、スライドを表示します。
+
+## 依存関係
+
+- スライドの一部には音声ファイルが含まれています。音声を再生するには、適切なメディアプレーヤーが必要です。
+
+## ライセンス
+
+このプロジェクトは、クリエイティブ・コモンズ・ライセンスの下で提供されています。
