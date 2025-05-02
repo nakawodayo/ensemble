@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /ensemble.webp
+# background: /ensemble.webp
 # some information about your slides (markdown enabled)
 title: アンサンブル
 # apply unocss classes to the current slide
@@ -57,7 +57,7 @@ ChatGPTに以下のプロンプトを入力する。出力された指示に従�
 
 ---
 
-# 音を止めるⅠ
+# 音を止める
 
 音を止める。
 
@@ -96,14 +96,14 @@ ChatGPTに以下のプロンプトを入力する。出力された指示に従�
 次の音声を流し、指示に従って踊る。
 
 <audio controls>
-  <source src="/audio/二人で踊る.mp3" type="audio/mpeg">
+  <source src="/audio/二人で踊るver2.mp3" type="audio/mpeg">
 </audio>
 
 ---
 
 # 銃を撃つ
 
-踊りながら、3回肉声で読み上げる。
+踊りながら、肉声で読み上げる。
 
 > A 銃を撃つ  
 > B ばん  
