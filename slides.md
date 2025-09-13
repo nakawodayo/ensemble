@@ -20,7 +20,7 @@ layout: center
 <div class="text-4xl">
   <ol>
     <li>音を出す</li>
-    <li>undefined</li>
+    <li>音を聞く</li>
   </ol>
 </div>
 
@@ -28,11 +28,11 @@ layout: center
 layout: center
 ---
 
-<div class="text-6xl mb-6">即興</div>
+<div class="text-6xl mb-6">色</div>
 <div class="text-4xl">
   <ol>
-    <li>絵を描く</li>
-    <li>undefined</li>
+    <li>青く塗る</li>
+    <li>水をやる</li>
   </ol>
 </div>
 
@@ -40,11 +40,11 @@ layout: center
 layout: center
 ---
 
-<div class="text-6xl mb-6">事故</div>
+<div class="text-6xl mb-6">ニュース</div>
 <div class="text-4xl">
   <ol>
     <li>ニュースを読む</li>
-    <li>歯を磨く</li>
+    <li>ご飯を食べる</li>
   </ol>
 </div>
 
@@ -56,7 +56,7 @@ layout: center
 <div class="text-4xl">
   <ol>
     <li>展示する</li>
-    <li>undefined</li>
+    <li>歯を磨く</li>
   </ol>
 </div>
 
@@ -68,7 +68,7 @@ layout: center
 <div class="text-4xl">
   <ol>
     <li>思い出して話す</li>
-    <li>undefined</li>
+    <li>トイレをする</li>
   </ol>
 </div>
 
@@ -80,7 +80,7 @@ layout: center
 <div class="text-4xl mb-4">
   <ol>
     <li>音を出す</li>
-    <li>undefined</li>
+    <li>文字を書く</li>
   </ol>
 </div>
 
@@ -144,7 +144,7 @@ layout: center
 layout: center
 ---
 
-<div class="text-6xl mb-6">事故</div>
+<div class="text-6xl mb-6">ニュース</div>
 <div class="text-4xl">
   <ol>
     <li>ニュースを読む</li>
